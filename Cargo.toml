@@ -6,15 +6,5 @@ authors = ["BlockOG"]
 description = "Different functions for conditional operations."
 readme = "README.md"
 repository = "https://github.com/BlockOG/sub_if"
-license = "MIT"
 license-file = "LICENSE"
-keywords = [
-    "sub_if",
-    "add_if",
-    "div_if",
-    "mul_if",
-    "neg_if",
-    "rem_if",
-    "shl_if",
-    "shr_if",
-]
+keywords = ["sub_if", "add_if", "div_if", "mul_if", "neg_if"]
