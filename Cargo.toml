@@ -2,7 +2,19 @@
 name = "sub_if"
 version = "1.0.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+authors = ["BlockOG"]
+description = "Different functions for conditional operations."
+readme = "README.md"
+repository = "https://github.com/BlockOG/sub_if"
+license = "MIT"
+license-file = "LICENSE"
+keywords = [
+    "sub_if",
+    "add_if",
+    "div_if",
+    "mul_if",
+    "neg_if",
+    "rem_if",
+    "shl_if",
+    "shr_if",
+]

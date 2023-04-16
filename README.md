@@ -1,5 +1,7 @@
 # sub_if
 
+Doesn't only have `sub_if`!
+
 A crate to make it so you don't have to do things like:
 
 ```rs
