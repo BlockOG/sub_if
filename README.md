@@ -4,7 +4,7 @@ Doesn't only have `sub_if`!
 
 A crate to make it so you don't have to do things like:
 
-```rs
+```rust
 let x = if condition {
     a - b
 } else {
@@ -14,6 +14,6 @@ let x = if condition {
 
 And can rather do:
 
-```rs
+```rust
 let x = a.sub_if(condition, &b);
 ```
